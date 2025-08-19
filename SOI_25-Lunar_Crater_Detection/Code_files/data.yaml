@@ -1,0 +1,6 @@
+path: ../Dataset  # base path to dataset
+train: train/images
+val: valid/images
+
+nc: 1
+names: ['crater']

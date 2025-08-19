@@ -1,0 +1,11 @@
+# Gradio UI and Web Interface
+gradio==4.25.0
+
+# YOLOv8 and dependencies
+ultralytics==8.1.34
+torch>=2.0.0
+
+# Image and matrix processing
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
