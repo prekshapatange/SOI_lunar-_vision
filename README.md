@@ -127,7 +127,3 @@ pip install -r requirements.txt
 
 ---
 
-##  Authors
-
-- Team name : The MC's
-- IIT Dharwad
